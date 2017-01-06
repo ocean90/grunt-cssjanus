@@ -26,7 +26,7 @@
     "node": ">= 0.8.0"
   },
   "dependencies": {
-    "cssjanus": "1.1.2"
+    "cssjanus": "git://github.com/ocean90/cssjanus.git#8405871102b0e15d3274515b723dd65befc7ce7a"
   },
   "devDependencies": {
     "grunt": "~0.4.1"
